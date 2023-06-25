@@ -1,0 +1,1 @@
+<a href="https://codeforces.com/gym/101375">contest link<a> 
